@@ -1,0 +1,23 @@
+        <style type="text/css">
+
+        /* selector {
+   property: value;
+}*/
+        h1 {
+            color: purple;
+        }
+
+        h1 {
+            color: red;
+        }
+
+        li {
+            color: green;
+        }
+
+        h4 {
+            color: purple;
+        }
+
+
+        </style>
