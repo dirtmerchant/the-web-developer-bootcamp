@@ -1,23 +1,22 @@
-<style type="text/css">
-
-/* selector {
-property: value;
-}*/
 h1 {
-    color: purple;
-}
+    color: rgba(0, 200, 100, 0.8);
 
-h1 {
-    color: red;
-}
+    /*
+    border=color: purple;
+    border-width: 5px;
+    border-style: solid;
+    */
 
-li {
-    color: green;
+    border: 5px solid purple;
 }
 
 h4 {
-    color: purple;
+    background: rgb(255, 100, 80, );
 }
 
 
-</style>
+body {
+    background: pink;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
