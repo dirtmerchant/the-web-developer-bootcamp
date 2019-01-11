@@ -1,0 +1,13 @@
+table {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    border: 6px solid;
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+table td,
+table th {
+    border: 1px solid black;
+}
