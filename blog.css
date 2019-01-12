@@ -14,13 +14,16 @@ padding-bottom: 20px; */
 body {
     font-family: source sans pro;
     width: auto;
-    border: 25px solid #bdc3c7;
+    border: 20px solid #bdc3c7;
     padding: 25px;
     margin: 25px;
 }
 
 #date {
-    color: #3498db
+    color: #3498db;
+    text-transform: uppercase;
+    /* padding: 5px; */
+    /* margin: 5px; */
 }
 
 h2 {
@@ -28,6 +31,13 @@ h2 {
 }
 
 #head {
-  border-left: 5px solid #bdc3c7;
-  padding-left: 5px;
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
