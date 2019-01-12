@@ -1,0 +1,33 @@
+/* border color: #bdc3c7
+date color: #3498db
+h2 color #2c3e50
+font: source sans pro */
+
+/* margin: 1.66%;
+font-size: 23px;
+font-weight: 800;
+text-transform: uppercase;
+border-bottom: 3px solid #f1f1f1;
+width: 30%;
+padding-bottom: 20px; */
+
+body {
+    font-family: source sans pro;
+    width: auto;
+    border: 25px solid #bdc3c7;
+    padding: 25px;
+    margin: 25px;
+}
+
+#date {
+    color: #3498db
+}
+
+h2 {
+    color: #2c3e50
+}
+
+#head {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
