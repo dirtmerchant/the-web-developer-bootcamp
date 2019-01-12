@@ -5,6 +5,8 @@ body {
     max-width: 700px;
     width: 80%;
     margin: 20px auto;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .quote {
@@ -16,6 +18,10 @@ body {
     color: #3498db;
     text-transform: uppercase;
     letter-spacing: 0.2rem;
+}
+
+.post {
+    margin-bottom: 20px;
 }
 
 h2 {
